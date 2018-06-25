@@ -1,0 +1,28 @@
+table{
+    width:1%;
+    white-space:pre;
+}
+
+table, th {
+    border: 1px solid black;
+    padding: 7px
+        
+}
+
+#l{
+    background-color:#f9a7bd
+}
+#r{
+    background-color:#A5F1AD
+}
+.l{
+    background-color: #FDEDEE
+}
+
+.r{
+    background-color:#E8F9E6
+}
+#num{
+    font-family: monospace;
+    background-color: #e0e0e0
+}
